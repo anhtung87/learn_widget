@@ -10,4 +10,4 @@
 
 ## Result
 
-![](./hoc-la-co-viec.png =300x)
+![](./hoc-la-co-viec.png)
